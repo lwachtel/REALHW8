@@ -87,6 +87,8 @@ def get_highest_rating(db): #Do this through DB as well
     """
     pass
 
+# new updated hw
+
 #Try calling your functions here
 def main():
     pass
