@@ -29,6 +29,7 @@ def load_rest_data(db):
         r_dict[tup[0]] = inner_d
     return r_dict
 
+# final upload
 
 def plot_rest_categories(db):
     """
